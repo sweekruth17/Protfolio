@@ -54,8 +54,8 @@ body {
   margin: 3px;
   padding: 20px;
   border-radius: 6px;
-  background-color: #22577a;
-  color: aliceblue;
+  background-color: #57cc99;
+  color: #22577a;
   font-family: "Open Sans", sans-serif;
 }
 li {
@@ -63,13 +63,16 @@ li {
   margin-left: 25%;
   font-size: 20px;
   text-align: left;
+  color: #22577a;
   font-family: "Open Sans", sans-serif;
 }
 .p_skills {
-  color: black;
+  /* color: black; */
+  color: #22577a;
 }
 h3 {
   font-family: "Open Sans", sans-serif;
+  color: #22577a;
   line-height: 0;
 }
 .project {
