@@ -1,103 +1,102 @@
-body{
-    margin:0px;
-    font-family: 'Open Sans', sans-serif;
+body {
+  margin: 0px;
+  font-family: "Open Sans", sans-serif;
 }
-.first_div{
-    background-color: #22577A;
-    margin-left: 0px;
-    margin-right: 0px;
-    padding-top: 100px;
-    padding-bottom: 20px;
-    position: relative;
+.first_div {
+  background-color: #22577a;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding-top: 100px;
+  padding-bottom: 20px;
+  position: relative;
 }
-.main_h1{
-
-    height: 20px;
-    margin:0px;
-    font-family: 'Sacramento', cursive;
-    color: aliceblue;
-    font-size: 5.652rem;
-    text-align: center;
+.main_h1 {
+  height: 20px;
+  margin: 0px;
+  font-family: "Sacramento", cursive;
+  color: aliceblue;
+  font-size: 5.652rem;
+  text-align: center;
 }
-.tag{
-    font-family: 'Open Sans', sans-serif;
-    color: aliceblue;
-    font-size: 30px;
-    margin-top: 90px;
-    text-align: center;
+.tag {
+  font-family: "Open Sans", sans-serif;
+  color: aliceblue;
+  font-size: 30px;
+  margin-top: 90px;
+  text-align: center;
 }
-.image_style{
-    padding: 25px;
-    height: auto;
-    width: auto;
+.image_style {
+  padding: 25px;
+  height: auto;
+  width: auto;
 }
-.mountain{
-    margin: 120px auto 30px auto;
-    padding: 45px;
-    text-align: center;
-    max-width:100%;
-    max-height:100%;
+.mountain {
+  margin: 120px auto 30px auto;
+  padding: 45px;
+  text-align: center;
+  max-width: 100%;
+  max-height: 100%;
 }
-.second_div{
-    background-color: #38A3A5;
-    margin: 0;
-    padding: 30px;
-    text-align: center;
-    
+.second_div {
+  background-color: #38a3a5;
+  margin: 0;
+  padding: 30px;
+  text-align: center;
 }
-.third_div{
-    background-color: #57CC99;
-    margin: 0;
-    padding: 30px;
-    text-align: center;
-
-
+.third_div {
+  background-color: #57cc99;
+  margin: 0;
+  padding: 30px;
+  text-align: center;
 }
-.card{
-    display: inline-block;
-    margin: 3px;
-    padding: 20px;
-    border-radius: 6px;
-    background-color:#22577A;
-    color: aliceblue;
-    font-family: 'Open Sans', sans-serif;
+.card {
+  display: inline-block;
+  margin: 3px;
+  padding: 20px;
+  border-radius: 6px;
+  background-color: #22577a;
+  color: aliceblue;
+  font-family: "Open Sans", sans-serif;
 }
-li{
-    display: inline-block;
-    
-    font-family: 'Open Sans', sans-serif;
+li {
+  list-style-position: inside;
+  margin-left: 25%;
+  font-size: 20px;
+  text-align: left;
+  font-family: "Open Sans", sans-serif;
 }
-h3{
-    font-family: 'Open Sans', sans-serif;
-    line-height: 0;
+.p_skills {
+  color: black;
 }
-.project{
-    font-family: 'Open Sans', sans-serif;
-    line-height: 0;
+h3 {
+  font-family: "Open Sans", sans-serif;
+  line-height: 0;
 }
-.card_con{
-    margin: 5px;
-    padding: 10px;
-
+.project {
+  font-family: "Open Sans", sans-serif;
+  line-height: 0;
 }
-p{
-    margin: 0;
-    font-family: 'Open Sans', sans-serif;
-    color: aliceblue;
-    font-size: 20px;
+.card_con {
+  margin: 5px;
+  padding: 10px;
 }
-h2{
-   color: aliceblue;
-   font-family: 'Open Sans', sans-serif;
+p {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+  color: aliceblue;
+  font-size: 20px;
 }
-.profile_image{
-    border-radius: 100%;
-    border-style: solid;
-    border-color: #22577A;
-    height: 150px;
-    width: 150px;
+h2 {
+  color: aliceblue;
+  font-family: "Open Sans", sans-serif;
 }
-.profile_tag{
-    color: aliceblue;
-    
+.profile_image {
+  border-radius: 100%;
+  border-style: solid;
+  border-color: #22577a;
+  height: 150px;
+  width: 150px;
+}
+.profile_tag {
+  color: aliceblue;
 }
